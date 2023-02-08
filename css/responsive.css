@@ -1,0 +1,33 @@
+@media only screen and (max-width : 1217px)  {
+    body{
+        /* background-color: red; */
+    }
+    nav{
+        flex-direction: column;
+    }
+    
+
+
+    /* container */
+    .container{
+        flex-direction: column;
+    }
+    .left-box h1{
+        font-size: 15px;
+        margin-left: 50px;
+    }
+    .left-box h1 span{
+        font-size: 1.2rem;
+    }
+    .left-box p{
+        margin-left: 50px;
+        font-size: 16px;
+    }
+
+
+
+    /* footer */
+    footer{
+        flex-direction: column;
+    }
+}
